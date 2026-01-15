@@ -9,4 +9,4 @@ This repository contains basic API testing examples using Postman.
 - Postman
 
 ## Purpose
-To demonstrate my basic API testing skills.
+To demonstrate basic API testing skills and partner integration validation.
